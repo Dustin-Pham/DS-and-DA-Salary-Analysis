@@ -1,0 +1,6 @@
+id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,n_experience_level,n_employment_type,n_company_size
+10,2020,EN,FT,"Data Scientist",45000,EUR,51321,FR,0,FR,S,0,3,1
+12,2020,EN,FT,"Data Scientist",35000,EUR,39916,FR,0,FR,M,0,3,2
+65,2020,EN,FT,"Data Scientist",55000,EUR,62726,DE,50,DE,S,0,3,1
+66,2020,EN,FT,"Data Scientist",43200,EUR,49268,DE,0,DE,S,0,3,1
+68,2020,EN,FT,"Data Scientist",105000,USD,105000,US,100,US,S,0,3,1

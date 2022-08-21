@@ -1,0 +1,12 @@
+id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+94,2021,EN,FT,"Data Scientist",2200000,INR,29751,IN,50,IN,L
+131,2021,EN,FT,"Data Scientist",42000,EUR,49646,FR,50,FR,M
+134,2021,EN,FT,"Data Scientist",100000,USD,100000,US,0,US,S
+139,2021,EN,FT,"Data Scientist",80000,USD,80000,US,100,US,M
+153,2021,EN,FT,"Data Scientist",13400,USD,13400,UA,100,UA,L
+238,2021,EN,FT,"Data Scientist",4000,USD,4000,VN,0,VN,M
+246,2021,EN,FT,"Data Scientist",31000,EUR,36643,FR,50,FR,L
+251,2021,EN,FT,"Data Scientist",90000,USD,90000,US,100,US,S
+253,2021,EN,FT,"Data Scientist",2100000,INR,28399,IN,100,IN,M
+275,2021,EN,FT,"Data Scientist",100000,USD,100000,US,100,US,M
+276,2021,EN,FT,"Data Scientist",58000,USD,58000,US,50,US,L

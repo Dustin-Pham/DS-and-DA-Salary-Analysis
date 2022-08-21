@@ -1,0 +1,5 @@
+id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,n_experience_level,n_employment_type,n_company_size
+463,2022,EN,FT,"Data Scientist",1400000,INR,18442,IN,100,IN,M,0,3,2
+499,2022,EN,FT,"Data Scientist",66500,CAD,52396,CA,100,CA,L,0,3,3
+502,2022,EN,FT,"Data Scientist",40000,USD,40000,JP,100,MY,L,0,3,3
+505,2022,EN,FT,"Data Scientist",120000,AUD,86703,AU,50,AU,M,0,3,2

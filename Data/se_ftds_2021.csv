@@ -1,0 +1,8 @@
+id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,n_experience_level,n_employment_type,n_company_size
+75,2021,SE,FT,"Data Scientist",45000,EUR,53192,FR,50,FR,L,2,3,3
+226,2021,SE,FT,"Data Scientist",110000,CAD,87738,CA,100,CA,S,2,3,1
+228,2021,SE,FT,"Data Scientist",135000,USD,135000,US,0,US,L,2,3,3
+240,2021,SE,FT,"Data Scientist",130000,CAD,103691,CA,100,CA,L,2,3,3
+243,2021,SE,FT,"Data Scientist",165000,USD,165000,US,100,US,L,2,3,3
+274,2021,SE,FT,"Data Scientist",65720,EUR,77684,FR,50,FR,M,2,3,2
+278,2021,SE,FT,"Data Scientist",180000,TRY,20171,TR,50,TR,L,2,3,3

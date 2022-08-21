@@ -1,0 +1,4 @@
+id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,n_experience_level,n_employment_type,n_company_size
+6,2020,SE,FT,"Lead Data Scientist",190000,USD,190000,US,100,US,S,2,3,1
+24,2020,MI,FT,"Lead Data Scientist",115000,USD,115000,AE,0,AE,L,1,3,3
+129,2021,SE,FT,"Lead Data Scientist",3000000,INR,40570,IN,50,IN,L,2,3,3

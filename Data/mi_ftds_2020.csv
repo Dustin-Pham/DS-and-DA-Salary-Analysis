@@ -1,0 +1,12 @@
+id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,n_experience_level,n_employment_type,n_company_size
+0,2020,MI,FT,"Data Scientist",70000,EUR,79833,DE,0,DE,L,1,3,3
+7,2020,MI,FT,"Data Scientist",11000000,HUF,35735,HU,50,HU,L,1,3,3
+11,2020,MI,FT,"Data Scientist",3000000,INR,40481,IN,0,IN,L,1,3,3
+40,2020,MI,FT,"Data Scientist",45760,USD,45760,PH,100,US,S,1,3,1
+46,2020,MI,FT,"Data Scientist",60000,GBP,76958,GB,100,GB,S,1,3,1
+48,2020,MI,FT,"Data Scientist",105000,USD,105000,US,100,US,L,1,3,3
+56,2020,MI,FT,"Data Scientist",34000,EUR,38776,ES,100,ES,M,1,3,2
+57,2020,MI,FT,"Data Scientist",118000,USD,118000,US,100,US,M,1,3,2
+59,2020,MI,FT,"Data Scientist",138350,USD,138350,US,100,US,M,1,3,2
+70,2020,MI,FT,"Data Scientist",55000,EUR,62726,FR,50,LU,S,1,3,1
+71,2020,MI,FT,"Data Scientist",37000,EUR,42197,FR,50,FR,S,1,3,1
