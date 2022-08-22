@@ -10,7 +10,7 @@ Many may come across the question of what the average salary of a data analyst a
 - The average salary of Data Scientist in person makes around the same as a Data Analyst working remote
 
 ## Project Duration & Tools
-August 18,2022-August 21,2022
+August 18, 2022 - August 21, 2022
 - mySQL
 - Tableau
 - Python
